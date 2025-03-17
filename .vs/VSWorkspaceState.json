@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\kodlamaio",
+    "\\src\\main\\java\\kodlamaio\\northwind",
+    "\\src\\main\\java\\kodlamaio\\northwind\\entities\\abstracts",
+    "\\src\\main\\java\\kodlamaio\\northwind\\entities\\concretes",
+    "\\src\\main\\java\\kodlamaio\\northwind\\entities\\dtos",
+    "\\src\\test\\java\\kodlamaio\\northwind"
+  ],
+  "SelectedNode": "\\.mvn",
+  "PreviewInSolutionExplorer": false
+}
